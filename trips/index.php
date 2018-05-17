@@ -20,7 +20,7 @@
     <main class="main-content">
         <div class="container">
             <div class="row">
-                <div class="twelve columns" style="margin-top: 10%; margin-bottom: 5%">
+                <div class="twelve columns">
                     <h4>Trips while on Erasmus</h4>
                     <p>....</p>
                 </div>

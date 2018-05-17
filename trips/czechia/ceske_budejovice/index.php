@@ -22,53 +22,70 @@
             <div class="row">
                 <div class="twelve columns">
                     <h4>Ceske Budejovice</h4>
-                    <p>....</p>
+                    <p>Phasellus rhoncus enim quis augue porttitor faucibus. Cras et ornare mi, nec vestibulum velit. Fusce
+                        hendrerit erat massa, ac fermentum magna egestas ac. Integer pretium libero non diam dapibus, ut
+                        commodo libero dapibus. Sed eget hendrerit diam, vel gravida lectus. Orci varius natoque penatibus
+                        et magnis dis parturient montes, nascetur ridiculus mus. Mauris purus ligula, laoreet vel euismod
+                        et, ultricies ac dui. Suspendisse vehicula egestas mauris, nec vehicula ex ullamcorper vel. Sed mi
+                        ante, consectetur porta fringilla et, posuere et ante. Sed congue, est eget volutpat cursus, felis
+                        augue ultrices arcu, bibendum iaculis diam ligula non lacus. Pellentesque metus neque, lobortis id
+                        auctor et, dictum elementum leo.</p>
                 </div>
             </div>
             <div class="row">
-                <div id="photoswipe-gallery" class="photoswipe-gallery">
+                <div class="twelve columns">
+                    <div class="photoswipe-gallery-div">
+                        <div id="photoswipe-gallery" class="photoswipe-gallery twelve columns">
+                            <a href="./images/cb_0.jpg" data-size="2000x1125"  data-author="Theodoros Kalatzis">
+                                <img src="./images/cb_0.jpg" alt=""/>
+                                <!-- <figure>This is dummy caption.</figure> -->
+                            </a>
 
-                    <a href="https://farm4.staticflickr.com/3894/15008518202_c265dfa55f_h.jpg" data-size="1600x1600" data-med="https://farm4.staticflickr.com/3894/15008518202_b016d7d289_b.jpg"
-                        data-med-size="1024x1024" data-author="Theodoros Kalatzis" class="photoswipe-gallery__img--main">
-                        <img src="https://farm4.staticflickr.com/3894/15008518202_b016d7d289_m.jpg" alt="" />
-                        <figure>This is dummy caption.</figure>
-                    </a>
+                            <a href="./images/cb_1.jpg" data-size="2000x1500" data-author="Theodoros Kalatzis">
+                                <img src="./images/cb_1.jpg" alt=""/>
+                                <!-- <figure>This is dummy caption.</figure> -->
+                            </a>
 
-                    <a href="https://farm6.staticflickr.com/5591/15008867125_b61960af01_h.jpg" data-size="1600x1068" data-med="https://farm6.staticflickr.com/5591/15008867125_68a8ed88cc_b.jpg"
-                        data-med-size="1024x683" data-author="Theodoros Kalatzis">
-                        <img src="https://farm6.staticflickr.com/5591/15008867125_68a8ed88cc_m.jpg" alt="" />
-                        <figure>This is dummy caption. It has been placed here solely to demonstrate the look and feel of finished,
-                            typeset text.
-                        </figure>
-                    </a>
+                            <a href="./images/cb_2.jpg" data-size="1999x2000" data-author="Theodoros Kalatzis">
+                                <img src="./images/cb_2.jpg" alt=""/>
+                                <!-- <figure>This is dummy caption.</figure> -->
+                            </a>
 
+                            <a href="./images/cb_4.jpg" data-size="2000x1125" data-author="Theodoros Kalatzis">
+                                <img src="./images/cb_4.jpg" alt=""/>
+                                <!-- <figure>This is dummy caption.</figure> -->
+                            </a>
 
-                    <a href="https://farm4.staticflickr.com/3902/14985871946_24f47d4b53_h.jpg" data-size="1600x1067" data-med="https://farm4.staticflickr.com/3902/14985871946_86abb8c56f_b.jpg"
-                        data-med-size="1024x683" data-author="Theodoros Kalatzis">
-                        <img src="https://farm4.staticflickr.com/3902/14985871946_86abb8c56f_m.jpg" alt="" />
-                        <figure>This is dummy caption. It is not meant to be read.</figure>
-                    </a>
-
-
-                    <a href="https://farm6.staticflickr.com/5584/14985868676_b51baa4071_h.jpg" data-size="1600x1067" data-med="https://farm6.staticflickr.com/5584/14985868676_4b802b932a_b.jpg"
-                        data-med-size="1024x683" data-author="Theodoros Kalatzis">
-                        <img src="https://farm6.staticflickr.com/5584/14985868676_4b802b932a_m.jpg" alt="" />
-                        <figure>Dummy caption. It's Greek to you. Unless, of course, you're Greek, in which case, it really makes
-                            no sense.
-                        </figure>
-                    </a>
-
-                    <a href="https://farm4.staticflickr.com/3920/15008465772_d50c8f0531_h.jpg" data-size="1600x1067" data-med="https://farm4.staticflickr.com/3920/15008465772_383e697089_b.jpg"
-                        data-med-size="1024x683" data-author="Theodoros Kalatzis">
-                        <img src="https://farm4.staticflickr.com/3920/15008465772_383e697089_m.jpg" alt="" />
-                        <figure>It's a dummy caption. He who searches for meaning here will be sorely disappointed.</figure>
-                    </a>
+                            <a href="./images/cb_5.jpg" data-size="2000x1125"  data-author="Theodoros Kalatzis">
+                                <img src="./images/cb_5.jpg" alt=""/>
+                                <!-- <figure>This is dummy caption.</figure> -->
+                            </a>
+                            <a href="./images/cb_6.jpg" data-size="2000x1500" data-author="Theodoros Kalatzis">
+                                <img src="./images/cb_6.jpg" alt=""/>
+                                <!-- <figure>This is dummy caption.</figure> -->
+                            </a>
+                        </div>
+                    </div>
                 </div>
             </div>
+            <div class="row">
+                <div class="twelve columns">
+                    <p>Proin at egestas nibh. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac
+                        turpis egestas. Maecenas libero lacus, fermentum ac semper hendrerit, ultrices id enim. Proin consequat
+                        leo sit amet lacus tincidunt, eget bibendum nisl porta. Cras ex magna, condimentum sed mattis eu,
+                        lacinia sit amet tortor. Suspendisse lacus tortor, auctor ac nulla vitae, interdum consectetur dui.
+                        Aenean at enim vel urna sodales consectetur at a mauris. Proin venenatis risus sit amet ipsum pharetra,
+                        et rhoncus tellus sollicitudin. Pellentesque dui tellus, rhoncus eu purus eu, cursus mollis felis.
+                        Aliquam tempus, magna eget elementum eleifend, eros ante gravida nisl, a aliquam felis ex sit amet
+                        velit.
+                    </p>
+                </div>
+            </div>
+
         </div>
         <?php include("../../../js/photoswipe_additional.html"); ?>
     </main>
-    
+
     <footer class="footer">
         <?php include("../../../footer.php"); ?>
     </footer>
