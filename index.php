@@ -39,19 +39,19 @@
                 </div>
             </div>
             <div class="row value-props">
+                <h3 class="center">Places I have visited</h3>
                 <div class="twelve columns">
-                    <h3 class="center">Places I have visited</h3>
-                    <div class="four columns value-prop zoom">
+                    <div class="one-third column value-prop zoom">
                         <a href="hradec_kralove">
                             <img class="value-img" src="images/trips_hradec_kralove.png">
                         </a>
                     </div>
-                    <div class="four columns value-prop zoom">
+                    <div class="one-third column value-prop zoom">
                         <a href="trips/czechia">
                             <img class="value-img" src="images/trips_czechia.png">
                         </a>
                     </div>
-                    <div class="four columns value-prop zoom">
+                    <div class="one-third column value-prop zoom">
                         <a href="trips/outside">
                             <img class="value-img" src="images/trips_europe.png">
                         </a>

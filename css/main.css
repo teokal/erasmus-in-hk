@@ -28,6 +28,10 @@
     .container {
         width: 80%;
     }
+    .column,
+    .columns {
+        margin-left: 4%;
+    }
     .column:first-child,
     .columns:first-child {
         margin-left: 0;
@@ -36,7 +40,7 @@
         width: 22%;
     }
     .four.columns {
-        width: 30.6666666667%;
+        width: 33.1333333333%;
     }
     .five.columns {
         width: 39.3333333333%;
@@ -387,12 +391,13 @@ footer.footer>div {
 }
 
 .zoom {
-    transition: transform .2s;
+    transition: transform .5s;
     /* Animation */
 }
 
 .zoom:hover {
-    transform: scale(1.1);
+    transform: scale(1.05);
+    box-shadow: 0px 2px 10px 5px #DDDDDD
     /* (110% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
 }
 
