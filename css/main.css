@@ -295,6 +295,10 @@ body {
     overflow-x: hidden;
 }
 
+header {
+    background: #333333;
+}
+
 .site {
     display: flex;
     flex-direction: column;
@@ -359,11 +363,8 @@ footer.footer>div {
     width: 100%;
     height: auto;
     float: left;
-}
-
-.photoswipe-gallery-div {
-    margin: 24px auto;
-    position: relative;
+    margin-top: 24px;
+    margin-left: -8px !important; /* To counter #photoswipe-gallery>a>img padding*/
 }
 
 #photoswipe-gallery>a {

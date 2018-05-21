@@ -30,41 +30,45 @@
                         ante, consectetur porta fringilla et, posuere et ante. Sed congue, est eget volutpat cursus, felis
                         augue ultrices arcu, bibendum iaculis diam ligula non lacus. Pellentesque metus neque, lobortis id
                         auctor et, dictum elementum leo.</p>
+                    <span>
+                        <a class="weatherwidget-io" href="https://forecast7.com/en/48d9814d48/ceske-budejovice/" data-label_1="WEATHER">ČESKÉ BUDĚJOVICE WEATHER</a>
+                        <script>
+                            <?php include('../../../js/weather_widget_io.js'); ?>
+                        </script>
+                    </span>
                 </div>
             </div>
             <div class="row">
                 <div class="twelve columns">
-                    <div class="photoswipe-gallery-div">
-                        <div id="photoswipe-gallery" class="photoswipe-gallery twelve columns">
-                            <a href="./images/cb_0.jpg" data-size="2000x1125"  data-author="Theodoros Kalatzis">
-                                <img src="./images/cb_0.jpg" alt=""/>
-                                <!-- <figure>This is dummy caption.</figure> -->
-                            </a>
+                    <div id="photoswipe-gallery" class="photoswipe-gallery twelve columns">
+                        <a href="./images/cb_0.jpg" data-med="./images/cb_0.jpg" data-size="2000x1125" data-med-size="2000x1125" data-author="Theodoros Kalatzis">
+                            <img src="./images/cb_0.jpg" alt="" />
+                            <!-- <figure>This is dummy caption.</figure> -->
+                        </a>
 
-                            <a href="./images/cb_1.jpg" data-size="2000x1500" data-author="Theodoros Kalatzis">
-                                <img src="./images/cb_1.jpg" alt=""/>
-                                <!-- <figure>This is dummy caption.</figure> -->
-                            </a>
+                        <a href="./images/cb_1.jpg" data-med="./images/cb_1.jpg" data-size="2000x1500" data-med-size="2000x1500" data-author="Theodoros Kalatzis">
+                            <img src="./images/cb_1.jpg" alt="" />
+                            <!-- <figure>This is dummy caption.</figure> -->
+                        </a>
 
-                            <a href="./images/cb_2.jpg" data-size="1999x2000" data-author="Theodoros Kalatzis">
-                                <img src="./images/cb_2.jpg" alt=""/>
-                                <!-- <figure>This is dummy caption.</figure> -->
-                            </a>
+                        <a href="./images/cb_2.jpg" data-med="./images/cb_2.jpg" data-size="1999x2000" data-med-size="1999x2000" data-author="Theodoros Kalatzis">
+                            <img src="./images/cb_2.jpg" alt="" />
+                            <!-- <figure>This is dummy caption.</figure> -->
+                        </a>
 
-                            <a href="./images/cb_4.jpg" data-size="2000x1125" data-author="Theodoros Kalatzis">
-                                <img src="./images/cb_4.jpg" alt=""/>
-                                <!-- <figure>This is dummy caption.</figure> -->
-                            </a>
+                        <a href="./images/cb_4.jpg" data-med="./images/cb_4.jpg" data-size="2000x1125" data-med-size="2000x1125" data-author="Theodoros Kalatzis">
+                            <img src="./images/cb_4.jpg" alt="" />
+                            <!-- <figure>This is dummy caption.</figure> -->
+                        </a>
 
-                            <a href="./images/cb_5.jpg" data-size="2000x1125"  data-author="Theodoros Kalatzis">
-                                <img src="./images/cb_5.jpg" alt=""/>
-                                <!-- <figure>This is dummy caption.</figure> -->
-                            </a>
-                            <a href="./images/cb_6.jpg" data-size="2000x1500" data-author="Theodoros Kalatzis">
-                                <img src="./images/cb_6.jpg" alt=""/>
-                                <!-- <figure>This is dummy caption.</figure> -->
-                            </a>
-                        </div>
+                        <a href="./images/cb_5.jpg" data-med="./images/cb_5.jpg" data-size="2000x1125" data-med-size="2000x1125" data-author="Theodoros Kalatzis">
+                            <img src="./images/cb_5.jpg" alt="" />
+                            <!-- <figure>This is dummy caption.</figure> -->
+                        </a>
+                        <a href="./images/cb_6.jpg" data-med="./images/cb_6.jpg" data-size="2000x1500" data-med-size="2000x1500" data-author="Theodoros Kalatzis">
+                            <img src="./images/cb_6.jpg" alt="" />
+                            <!-- <figure>This is dummy caption.</figure> -->
+                        </a>
                     </div>
                 </div>
             </div>
