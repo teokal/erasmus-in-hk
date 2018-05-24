@@ -30,6 +30,42 @@
                         and Charles University in Prague also has its Faculty of Medicine in Hradec Králové and Faculty of
                         Pharmacy there.</p>
                 </div>
+                <div class="row">
+                    <div class="twelve columns">
+                        <div id="photoswipe-gallery" class="photoswipe-gallery">
+                            <a href="./images/hk_0.jpg" data-med="./images/hk_0.jpg" data-size="2000x1500" data-med-size="2000x1500" data-author="Theodoros Kalatzis">
+                                <img src="./images/hk_0.jpg" alt="Old city of Hradec Kralove" title="Old city of Hradec Kralove" />
+                                <figure>Old city of Hradec Kralove</figure>
+                            </a>
+
+                            <a href="./images/hk_1.jpg" data-med="./images/hk_1.jpg" data-size="2000x1125" data-med-size="2000x1125" data-author="Theodoros Kalatzis">
+                                <img src="./images/hk_1.jpg" alt="Old city of Hradec Kralove" title="Old city of Hradec Kralove" />
+                                <figure>Old city of Hradec Kralove</figure>
+                            </a>
+
+                            <a href="./images/hk_2.jpg" data-med="./images/hk_2.jpg" data-size="2000x1500" data-med-size="2000x1500" data-author="Theodoros Kalatzis">
+                                <img src="./images/hk_2.jpg" alt="night view from Aupark" title="night view from Aupark" />
+                                <figure>night view from Aupark</figure>
+                            </a>
+
+                            <a href="./images/hk_3.jpg" data-med="./images/hk_3.jpg" data-size="2000x1500" data-med-size="2000x1500" data-author="Theodoros Kalatzis">
+                                <img src="./images/hk_3.jpg" alt="Walking in the park with sunset" title="Walking in the park with sunset" />
+                                <figure>Walking in the park with sunset</figure>
+                            </a>
+
+                            <a href="./images/hk_4.jpg" data-med="./images/hk_4.jpg" data-size="2000x1500" data-med-size="2000x1500" data-author="Jose Roberto Gonzalez Gozman">
+                                <img src="./images/hk_4.jpg" alt="University of Hradec Kralove in Spring ♥" title="University of Hradec Kralove in Spring ♥" />
+                                <figure>University of Hradec Kralove in Spring ♥</figure>
+                            </a>
+
+                            <a href="./images/hk_5.jpg" data-med="./images/hk_5.jpg" data-size="1080x1080" data-med-size="1080x1080" data-author="Jose Roberto Gonzalez Gozman">
+                                <img src="./images/hk_5.jpg" alt="Hradec Kralove on March: Frozen River" title="Hradec Kralove on March: Frozen River" />
+                                <figure>Hradec Kralove on March: Frozen River</figure>
+                            </a>
+                        </div>
+                    </div>
+                    <?php include("../js/photoswipe_additional.html"); ?>
+                </div>
 
                 <h4>Geography</h4>
                 <p>The city lies at the confluence of the Elbe and the Orlice river close to Krkonoše (Giant Mountains), the

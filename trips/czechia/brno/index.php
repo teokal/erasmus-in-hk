@@ -41,27 +41,27 @@
                     <div id="photoswipe-gallery" class="photoswipe-gallery">
                         <a href="./images/brno_0.jpg" data-med="./images/brno_0.jpg" data-size="2000x1500" data-med-size="2000x1500" data-author="Theodoros Kalatzis">
                             <img src="./images/brno_0.jpg" alt="View of Brno from the hill" title="View of Brno from the hill" />
-                            <!-- <figure>This is dummy caption.</figure> -->
+                            <figure>View of Brno from the hill</figure>
                         </a>
 
                         <a href="./images/brno_1.jpg" data-med="./images/brno_1.jpg" data-size="2000x1500" data-med-size="2000x1500" data-author="Theodoros Kalatzis">
                             <img src="./images/brno_1.jpg" alt="Benches in Brno" title="Benches in Brno" />
-                            <!-- <figure>This is dummy caption.</figure> -->
+                            <figure>Benches in Brno</figure>
                         </a>
 
                         <a href="./images/brno_2.jpg" data-med="./images/brno_2.jpg" data-size="2000x1500" data-med-size="2000x1500" data-author="Theodoros Kalatzis">
                             <img src="./images/brno_2.jpg" alt="View from the hill in Brno" title="View from the hill in Brno" />
-                            <!-- <figure>This is dummy caption.</figure> -->
+                            <figure>View from the hill in Brno</figure>
                         </a>
 
                         <a href="./images/brno_3.jpg" data-med="./images/brno_3.jpg" data-size="2000x1500" data-med-size="2000x1500" data-author="Theodoros Kalatzis">
                             <img src="./images/brno_3.jpg" alt="Cracked-open tree and ruined steps" title="Cracked-open tree and ruined steps" />
-                            <!-- <figure>This is dummy caption.</figure> -->
+                            <figure>Cracked-open tree and ruined steps</figure>
                         </a>
 
                         <a href="./images/brno_4.jpg" data-med="./images/brno_4.jpg" data-size="2000x1500" data-med-size="2000x1500" data-author="Theodoros Kalatzis">
                             <img src="./images/brno_4.jpg" alt="Church in Brno" title="Church in Brno" />
-                            <!-- <figure>This is dummy caption.</figure> -->
+                            <figure>Church in Brno</figure>
                         </a>
                     </div>
                 </div>
