@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <title>Vienna | Austria | Erasmus in HK | Thodoris Kalatzis</title>
-    <meta name="description" content="">
+    <meta name="description" content="Vienna Austria">
 
     <?php include("../../../../base.html"); ?>
     <?php include("../../../../css.html"); ?>
@@ -18,14 +18,78 @@
     </header>
 
     <main class="main-content">
-      <div class="container">
+        <div class="container">
             <div class="row">
                 <div class="twelve columns">
                     <h4>Vienna</h4>
-                    <p>....</p>
+                    <p>Phasellus rhoncus enim quis augue porttitor faucibus. Cras et ornare mi, nec vestibulum velit. Fusce
+                        hendrerit erat massa, ac fermentum magna egestas ac. Integer pretium libero non diam dapibus, ut
+                        commodo libero dapibus. Sed eget hendrerit diam, vel gravida lectus. Orci varius natoque penatibus
+                        et magnis dis parturient montes, nascetur ridiculus mus. Mauris purus ligula, laoreet vel euismod
+                        et, ultricies ac dui. Suspendisse vehicula egestas mauris, nec vehicula ex ullamcorper vel. Sed mi
+                        ante, consectetur porta fringilla et, posuere et ante. Sed congue, est eget volutpat cursus, felis
+                        augue ultrices arcu, bibendum iaculis diam ligula non lacus. Pellentesque metus neque, lobortis id
+                        auctor et, dictum elementum leo.</p>
+                    <span>
+                        <a class="weatherwidget-io" href="https://forecast7.com/en/48d2116d37/vienna/" data-label_1="WEATHER">COLOGNE WEATHER</a>
+                        <script>
+                            <?php include('../../../../js/weather_widget_io.js'); ?>
+                        </script>
+                    </span>
                 </div>
             </div>
+            <div class="row">
+                <div class="twelve columns">
+                    <div id="photoswipe-gallery" class="photoswipe-gallery">
+                        <a href="./images/vienna_0.jpg" data-med="./images/vienna_0.jpg" data-size="2000x1500" data-med-size="2000x1500" data-author="Theodoros Kalatzis">
+                            <img src="./images/vienna_0.jpg" alt="Colorful houses in Vienna under night light" title="Colorful houses in Vienna under night light" />
+                            <figure>Colorful houses in Vienna under night light</figure>
+                        </a>
+
+                        <a href="./images/vienna_1.jpg" data-med="./images/vienna_1.jpg" data-size="2000x1500" data-med-size="2000x1500" data-author="Theodoros Kalatzis">
+                            <img src="./images/vienna_1.jpg" alt="City center of Vienna" title="City center of Vienna" />
+                            <figure>City center of Vienna</figure>
+                        </a>
+
+                        <a href="./images/vienna_2.jpg" data-med="./images/vienna_2.jpg" data-size="2000x1500" data-med-size="2000x1500" data-author="Theodoros Kalatzis">
+                            <img src="./images/vienna_2.jpg" alt="Snowed garden" title="Snowed garden" />
+                            <figure>Snowed garden</figure>
+                        </a>
+
+                        <a href="./images/vienna_3.jpg" data-med="./images/vienna_3.jpg" data-size="2000x1500" data-med-size="2000x1500" data-author="Theodoros Kalatzis">
+                            <img src="./images/vienna_3.jpg" alt="It reminds me of Acropolis." title="It reminds me of Acropolis." />
+                            <figure>It reminds me of Acropolis.</figure>
+                        </a>
+
+                        <a href="./images/vienna_4.jpg" data-med="./images/vienna_4.jpg" data-size="2000x1500" data-med-size="2000x1500" data-author="Theodoros Kalatzis">
+                            <img src="./images/vienna_4.jpg" alt="Nice building under night light" title="Nice building under night light" />
+                            <figure>Nice building under night light</figure>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="twelve columns">
+                    <p>Vienna is known for its high quality of life. In a 2005 study of 127 world cities, the Economist Intelligence
+                        Unit ranked the city first (in a tie with Vancouver, Canada and San Francisco, USA) for the world's
+                        most liveable cities. Between 2011 and 2015, Vienna was ranked second, behind Melbourne, Australia.
+                        For eight consecutive years (2009–2016), the human-resource-consulting firm Mercer ranked Vienna
+                        first in its annual "Quality of Living" survey of hundreds of cities around the world, a title the
+                        city still held in 2016. Monocle's 2015 "Quality of Life Survey" ranked Vienna second on a list of
+                        the top 25 cities in the world "to make a base within."</p>
+                    <p>The UN-Habitat classified Vienna as the most prosperous city in the world in 2012/2013. The city was
+                        ranked 1st globally for its culture of innovation in 2007 and 2008, and sixth globally (out of 256
+                        cities) in the 2014 Innovation Cities Index, which analyzed 162 indicators in covering three areas:
+                        culture, infrastructure, and markets. Vienna regularly hosts urban planning conferences and is often
+                        used as a case study by urban planners.</p>
+                    <p>Between 2005 and 2010, Vienna was the world's number-one destination for international congresses and
+                        conventions. It attracts over 6.8 million tourists a year.
+                    </p>
+                </div>
+            </div>
+
         </div>
+        <?php include("../../../../js/photoswipe_additional.html"); ?>
     </main>
 
     <footer class="footer">

@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <title>Erasmus in HK | Thodoris Kalatzis</title>
-    <meta name="description" content="">
+    <meta name="description" content="Erasmus in HK">
 
     <?php include("base.html"); ?>
     <?php include("css.html"); ?>

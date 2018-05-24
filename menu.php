@@ -16,7 +16,7 @@
 							<a href="./trips/czechia/brno">Brno</a>
 						</li>
 						<li>
-							<a href="./trips/czechia/ceske_budejovice">Ceske Budejovice</a>
+							<a href="./trips/czechia/ceske_budejovice">České Budějovice</a>
 						</li>
 					</ul>
 				</li>
