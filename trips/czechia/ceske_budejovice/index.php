@@ -40,7 +40,7 @@
             </div>
             <div class="row">
                 <div class="twelve columns">
-                    <div id="photoswipe-gallery" class="photoswipe-gallery twelve columns">
+                    <div id="photoswipe-gallery" class="photoswipe-gallery">
                         <a href="./images/cb_0.jpg" data-med="./images/cb_0.jpg" data-size="2000x1125" data-med-size="2000x1125" data-author="Theodoros Kalatzis">
                             <img src="./images/cb_0.jpg" alt="" />
                             <!-- <figure>This is dummy caption.</figure> -->
@@ -53,6 +53,11 @@
 
                         <a href="./images/cb_2.jpg" data-med="./images/cb_2.jpg" data-size="1999x2000" data-med-size="1999x2000" data-author="Theodoros Kalatzis">
                             <img src="./images/cb_2.jpg" alt="" />
+                            <!-- <figure>This is dummy caption.</figure> -->
+                        </a>
+
+                        <a href="./images/cb_3.jpg" data-med="./images/cb_3.jpg" data-size="1999x2000" data-med-size="1999x2000" data-author="Theodoros Kalatzis">
+                            <img src="./images/cb_3.jpg" alt="" />
                             <!-- <figure>This is dummy caption.</figure> -->
                         </a>
 

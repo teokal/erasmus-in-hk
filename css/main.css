@@ -62,7 +62,7 @@
         width: 65.3333333333%;
     }
     .one-half.column {
-        width: 48%;
+        width: 47%;
     }
 }
 
@@ -246,49 +246,6 @@ td:last-child {
     padding-right: 0;
 }
 
-/* Utilities
-  –––––––––––––––––––––––––––––––––––––––––––––––––– */
-
-.u-full-width {
-    width: 100%;
-    box-sizing: border-box;
-}
-
-.u-max-full-width {
-    max-width: 100%;
-    box-sizing: border-box;
-}
-
-.u-pull-right {
-    float: right;
-}
-
-.u-pull-left {
-    float: left;
-}
-
-/* Media Queries
-  –––––––––––––––––––––––––––––––––––––––––––––––––– */
-
-/*
-  Note: The best way to structure the use of media queries is to create the queries
-  near the relevant code. For example, if you wanted to change the styles for buttons
-  on small devices, paste the mobile query code up in the buttons section and style it
-  there.
-  */
-
-/* Larger than mobile */
-
-@media (min-width: 480px) {}
-
-/* Larger than tablet */
-
-@media (min-width: 750px) {}
-
-/* Larger than desktop */
-
-@media (min-width: 1000px) {}
-
 html,
 body {
     height: 100%;
@@ -364,7 +321,8 @@ footer.footer>div {
     height: auto;
     float: left;
     margin-top: 24px;
-    margin-left: -8px !important; /* To counter #photoswipe-gallery>a>img padding*/
+    margin-left: -8px !important;
+    /* To counter #photoswipe-gallery>a>img padding*/
 }
 
 #photoswipe-gallery>a {
@@ -388,6 +346,20 @@ footer.footer>div {
     text-align: center;
     margin: 2.5rem auto 0;
     max-width: 95%;
+    max-height: 100%;
+}
+
+.place-prop {
+    margin: 0.4em;
+    max-width: 100%;
+    max-height: 100%;
+    text-align: center;
+}
+
+.place-img {
+    display: block;
+    text-align: center;
+    max-width: 100%;
     max-height: 100%;
 }
 
@@ -419,10 +391,8 @@ img {
     position: relative;
     z-index: -1;
     overflow: hidden;
-
     min-height: 70vh;
     /* height: 70%; */
-
     background-image: url("../images/hp-banner.jpg");
     background-position: center;
     background-repeat: no-repeat;
@@ -438,7 +408,7 @@ img {
     text-align: center;
 }
 
-h1 > span {
+h1>span {
     display: inline;
     background-color: #111;
     color: #fff;
@@ -453,39 +423,40 @@ h1 > span {
 #photos {
     /* Prevent vertical gaps */
     line-height: 0;
-    
     -webkit-column-count: 3;
-    -webkit-column-gap:   0px;
-    -moz-column-count:    3;
-    -moz-column-gap:      0px;
-    column-count:         3;
-    column-gap:           0px;
- }
- 
- #photoswipe-gallery img {
-   /* Just in case there are inline attributes */
-   width: 100% !important;
-   height: auto !important;
- }
- 
- @media (max-width: 9999px) {
-   #photoswipe-gallery {
-   -moz-column-count:    3;
-   -webkit-column-count: 3;
-   column-count:         3;
-   }
- }
- @media (max-width: 786px) {
-   #photoswipe-gallery {
-   -moz-column-count:    2;
-   -webkit-column-count: 2;
-   column-count:         2;
-   }
- }
- @media (max-width: 550px) {
-   #photoswipe-gallery {
-   -moz-column-count:    1;
-   -webkit-column-count: 1;
-   column-count:         1;
-   }
- }
+    -webkit-column-gap: 0px;
+    -moz-column-count: 3;
+    -moz-column-gap: 0px;
+    column-count: 3;
+    column-gap: 0px;
+}
+
+#photoswipe-gallery img {
+    /* Just in case there are inline attributes */
+    width: 100% !important;
+    height: auto !important;
+}
+
+@media (max-width: 9999px) {
+    #photoswipe-gallery {
+        -moz-column-count: 3;
+        -webkit-column-count: 3;
+        column-count: 3;
+    }
+}
+
+@media (max-width: 786px) {
+    #photoswipe-gallery {
+        -moz-column-count: 2;
+        -webkit-column-count: 2;
+        column-count: 2;
+    }
+}
+
+@media (max-width: 550px) {
+    #photoswipe-gallery {
+        -moz-column-count: 1;
+        -webkit-column-count: 1;
+        column-count: 1;
+    }
+}

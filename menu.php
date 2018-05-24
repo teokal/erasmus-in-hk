@@ -18,9 +18,6 @@
 						<li>
 							<a href="./trips/czechia/ceske_budejovice">Ceske Budejovice</a>
 						</li>
-						<li>
-							<a href="./trips/czechia/hluboka_nad_vltavou">Hluboka nad Vltavou</a>
-						</li>
 					</ul>
 				</li>
 				<li>
@@ -30,10 +27,10 @@
 							<a href="./trips/outside/austria/vienna">Vienna</a>
 						</li>
 						<li>
-							<a href="./trips/outside/france/paris">Paris</a>
+							<a href="./trips/outside/germany/cologne">Cologne</a>
 						</li>
 						<li>
-							<a href="./trips/outside/germany/cologne">Cologne</a>
+							<a href="./trips/outside/hungary/budapest">Budapest</a>
 						</li>
 						<li>
 							<a href="./trips/outside/poland/krakow">Krakow</a>

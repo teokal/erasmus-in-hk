@@ -22,7 +22,30 @@
             <div class="row">
                 <div class="twelve columns">
                     <h4>Trips in Czech Republic</h4>
-                    <p>....</p>
+                    <div class="row value-props">
+                        <div class="twelve columns">
+                            <div class="one-half column place-prop zoom">
+                                <a href="trips/czechia/prague">
+                                    <img class="place-img" src="../../images/cz_props_prague.jpg">Prague
+                                </a>
+                            </div>
+                            <div class="one-half column place-prop zoom">
+                                <a href="trips/czechia/brno">
+                                    <img class="place-img" src="../../images/cz_props_brno.jpg">Brno
+                                </a>
+                            </div>
+                            <div class="one-half column place-prop zoom">
+                                <a href="trips/czechia/ceske_budejovice">
+                                    <img class="place-img" src="../../images/cz_props_ceske_budejovice.jpg">Ceske Budejovice
+                                </a>
+                            </div>
+                            <div class="one-half column place-prop zoom">
+                                <a href="hradec_kralove">
+                                    <img class="place-img" src="../../images/cz_props_hk.jpg">Hradec Kralove
+                                </a>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>

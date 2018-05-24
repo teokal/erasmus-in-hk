@@ -225,9 +225,6 @@
   #cssmenu ul {
     display: block !important;
   }
-  #cssmenu ul ul ul {
-    display: none !important;
-  }
 }
 
 @media all and (max-width: 768px),

@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Paris | France | Erasmus in HK | Thodoris Kalatzis</title>
+    <title>Budapest | Hungary | Erasmus in HK | Thodoris Kalatzis</title>
     <meta name="description" content="">
 
     <?php include("../../../../base.html"); ?>
@@ -21,7 +21,7 @@
         <div class="container">
             <div class="row">
                 <div class="twelve columns">
-                    <h4>Paris</h4>
+                    <h4>Budapest</h4>
                     <p>....</p>
                 </div>
             </div>
