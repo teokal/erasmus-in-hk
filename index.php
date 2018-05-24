@@ -20,23 +20,21 @@
     <main class="main-content">
         <div class="bg row">
             <div class="caption">
-                <h1 class="border"><span>Erasmus in</span><br><span>Hradec Králové</span></h1>
+                <h1 class="border">
+                    <span>Erasmus in</span>
+                    <br>
+                    <span>Hradec Králové</span>
+                </h1>
             </div>
         </div>
 
         <div class="container">
-            <div class="row">
-                <div class="twelve columns">
-                    <p class="margintop10">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam
-                        rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt
-                        explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur
-                        magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum
-                        quia dolor sit amet, consectetur, adipisci velit, <strong>sed quia non numquam</strong> eius modi tempora incidunt
-                        ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem
-                        ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum
-                        iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui
-                        dolorem eum fugiat quo voluptas nulla pariatur?</p>
-                </div>
+            <div class="row twelve columns">
+                <p class="margintop10">One of the most important reasons I wanted to go on Erasmus is that it makes you get out of your comfort
+                    zone a lot, mostly by traveling. Traveling forces you to grow out of your shoes and reach the greatness
+                    within yourself on a daily bases. You just need to get out of your comfort zone, otherwise you won’t
+                    be able to grab small or big chances. If you don’t try out new stuff, challenge yourself and sometimes
+                    do things that scare you, then you can stay at home just as well.</p>
             </div>
             <div class="row value-props">
                 <h3 class="center">Places I have visited</h3>
@@ -57,6 +55,13 @@
                         </a>
                     </div>
                 </div>
+            </div>
+            <div class="row twelve columns">
+                <p class="margintop10">If you want to have the best travel time ever, then you have to do things you have not done before. See the
+                    world as a playground, try out and play with it. Maybe you just learn a new language, start to hitchhike,
+                    try out a job you would normally never do or you hang out with people, who are completely different than
+                    you are. Traveling brings you so many opportunities, but only, if you overcome your fear of getting out
+                    of your comfort zone. It is just a crutual thing when you want to travel the world.</p>
             </div>
         </div>
     </main>
