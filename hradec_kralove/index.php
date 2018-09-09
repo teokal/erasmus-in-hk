@@ -73,7 +73,7 @@
 
                 <h4 id="uhk">University of Hradec Kralove</h4>
                 <div id="directions" class="four columns">
-                    <form action="http://maps.google.com/maps" method="get" target="_blank">
+                    <form action="https://maps.google.com/maps" method="get" target="_blank">
                         <label for="saddr">Get driving directions to UHK - building F</label>
                         <input type="text" name="saddr" placeholder="Directions from ..." />
                         <input type="hidden" name="daddr" value="Univerzita Hradec Králové - budova F" />
@@ -121,7 +121,7 @@
                                 </td>
                                 <td>Yes</td>
                                 <td>
-                                    <a href="http://www.naplavkahk.cz" target="">Visit</a>
+                                    <a href="http://www.naplavkahk.cz" target="_blank">Visit</a>
                                 </td>
                             </tr>
                             <tr>
@@ -134,7 +134,7 @@
                                 </td>
                                 <td>Yes</td>
                                 <td>
-                                    <a href="http://salieri.cz" target="">Visit</a>
+                                    <a href="http://salieri.cz" target="_blank">Visit</a>
                                 </td>
                             </tr>
                             <tr>
@@ -147,7 +147,7 @@
                                 </td>
                                 <td>No</td>
                                 <td>
-                                    <a href="http://www.mexita.cz/tp/restaurace.html" target="">Visit</a>
+                                    <a href="http://www.mexita.cz/tp/restaurace.html" target="_blank">Visit</a>
                                 </td>
                             </tr>
                             <tr>
@@ -160,7 +160,7 @@
                                 </td>
                                 <td>No</td>
                                 <td>
-                                    <a href="http://restaurace-nahrade.cz" target="">Visit</a>
+                                    <a href="http://restaurace-nahrade.cz" target="_blank">Visit</a>
                                 </td>
                             </tr>
                             <tr>
@@ -173,7 +173,7 @@
                                 </td>
                                 <td>No</td>
                                 <td>
-                                    <a href="https://www.facebook.com/matysbar" target="">Visit</a>
+                                    <a href="https://www.facebook.com/matysbar" target="_blank">Visit</a>
                                 </td>
                             </tr>
                         </tbody>
