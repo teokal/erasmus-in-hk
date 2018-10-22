@@ -32,7 +32,7 @@
             <div class="row twelve columns">
                 <p class="margintop10">One of the most important reasons I wanted to go on Erasmus is that it makes you get out of your comfort
                     zone a lot, mostly by traveling. Traveling forces you to grow out of your shoes and reach the greatness
-                    within yourself on a daily bases. You just need to get out of your comfort zone, otherwise you won’t
+                    within yourself on a daily basis. You just need to get out of your comfort zone, otherwise you won’t
                     be able to grab small or big chances. If you don’t try out new stuff, challenge yourself and sometimes
                     do things that scare you, then you can stay at home just as well.</p>
             </div>
