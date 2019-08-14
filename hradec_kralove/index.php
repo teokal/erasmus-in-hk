@@ -89,12 +89,18 @@
                     and Management, Philosophical Faculty, Faculty of Science, Institute of Social Work. It belongs to one
                     of the most important education and research institutions in the Eastern Bohemia.</p>
 
+                <p>Here is an amazing video about both the city and the university of Hradec Kralove:</p>
+                <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FUniversityofHradecKralove%2Fvideos%2F1827141847298849%2F&show_text=0&width=560" 
+                        width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true">
+                </iframe>
+
                 <p>Source:
                     <a href="https://en.wikipedia.org/wiki/Hradec_Kr%C3%A1lov%C3%A9" target="_blank">Wikipedia</a>
                     <br>Official Website:
-                    <a href="https://www.hradeckralove.eu/?lang=2" targer="_blank">hradeckralove.eu</a>
-                    <br>UHK Website:
-                    <a href="https://www.uhk.cz/en-GB/UHK" targer="_blank">uhk.cz</a>
+                    <a href="https://www.hradeckralove.eu/?lang=2" target="_blank">hradeckralove.eu</a>
+                    <br>UHK:
+                    <a href="https://www.uhk.cz/en-GB/UHK" target="_blank">uhk.cz</a> | 
+                    <a href="https://www.facebook.com/UniversityofHradecKralove" target="_blank">fb.com/UniversityofHradecKralove</a>
                 </p>
 
                 <h4>Suggested Places</h4>
@@ -126,7 +132,7 @@
                             </tr>
                             <tr>
                                 <td>Salieri Café</td>
-                                <td>Nám. 5. května 835/10</td>
+                                <td>Švehlova 504/16</td>
                                 <td>Café</td>
                                 <td>
                                     <span class="grey">
